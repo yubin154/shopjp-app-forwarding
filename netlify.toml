@@ -1,3 +1,10 @@
 [build]
   command = "npm run build"
   publish = "out"
+
+## This rule redirects to an external API, signing requests with a secret
+[[redirects]]
+  from = "/test_redirect"
+  to = "https://www.shopjp.app"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
