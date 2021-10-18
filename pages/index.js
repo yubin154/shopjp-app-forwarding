@@ -13,7 +13,16 @@ export default function Home() {
       <main>
         <Header title="最贴心的纯日货拼邮" />
         <p className="description">
-          最贴心的纯日货拼邮
+          <a href="/shop">APP下单</a>
+        </p>
+        <p className="description">
+          <a href="/skincare">Browse Beauty Products</a>
+        </p>
+        <p className="description">
+          <a href="/health">Browse Health Products</a>
+        </p>
+        <p className="description">
+          <a href="/fashion">Browse Fashion Products</a>
         </p>
       </main>
 

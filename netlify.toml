@@ -15,11 +15,11 @@
 
 [[redirects]]
   from = "/health"
-  to = "https://screeching-frame-9268.glideapp.io"
+  to = "https://crooked-sponge-4983.glideapp.io"
   force = true # COMMENT: ensure that we always redirect
 
 [[redirects]]
   from = "/fashion"
-  to = "https://screeching-frame-9268.glideapp.io/"
+  to = "https://screeching-frame-9268.glideapp.io"
   force = true # COMMENT: ensure that we always redirect
 
