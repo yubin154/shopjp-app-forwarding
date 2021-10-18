@@ -4,7 +4,26 @@
 
 ## This rule redirects to an external API, signing requests with a secret
 [[redirects]]
-  from = "/test_redirect"
-  to = "https://www.shopjp.app"
+  from = "/skincare"
+  to = "https://quarrelsome-plant-7288.glideapp.io/"
   status = 200
   force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/shop"
+  to = "https://fearful-camera-9811.glideapp.io/"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/health"
+  to = "https://screeching-frame-9268.glideapp.io/"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/fashion"
+  to = "https://screeching-frame-9268.glideapp.io/"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+
