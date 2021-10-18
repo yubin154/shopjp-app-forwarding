@@ -16,13 +16,13 @@ export default function Home() {
           <a href="/shop">APP下单</a>
         </p>
         <p className="description">
-          <a href="/skincare">Browse Beauty Products</a>
+          <a href="/beauty">Browse Beauty Products (美妆)</a>
         </p>
         <p className="description">
-          <a href="/health">Browse Health Products</a>
+          <a href="/health">Browse Health Products (药妆)</a>
         </p>
         <p className="description">
-          <a href="/fashion">Browse Fashion Products</a>
+          <a href="/fashion">Browse Fashion Products (时尚，日用，小吃)</a>
         </p>
       </main>
 
