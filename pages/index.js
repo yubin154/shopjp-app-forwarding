@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>ShopJp.app</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="最贴心的纯日货拼邮" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          最贴心的纯日货拼邮
         </p>
       </main>
 
