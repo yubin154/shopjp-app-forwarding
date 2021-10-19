@@ -4,14 +4,19 @@
 
 ## This rule redirects to an external API, signing requests with a secret
 [[redirects]]
-  from = "/beauty"
-  to = "https://quarrelsome-plant-7288.glideapp.io"
+  from = "/buy"
+  to = "https://fearful-camera-9811.glideapp.io"
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/browse"
+  to = "https://right-noise-9574.glideapp.io/"
   force = true
 
 [[redirects]]
-  from = "/shop"
-  to = "https://fearful-camera-9811.glideapp.io"
-  force = true # COMMENT: ensure that we always redirect
+  from = "/beauty"
+  to = "https://quarrelsome-plant-7288.glideapp.io"
+  force = true
 
 [[redirects]]
   from = "/health"
