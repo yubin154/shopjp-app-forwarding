@@ -13,22 +13,12 @@ export default function Home() {
       <main>
         <Header title="最贴心的纯日货拼邮" />
         <p className="description">
-          <a href="/buy">APP下单</a>
+          <a href="/browse">浏览产品目录</a>
         </p>
         <p className="description">
-          <a href="/browse">Browse Products (产品目录)</a>
-        </p>
-        <p className="description">
-          <a href="/beauty">Browse Beauty Products (美妆)</a>
-        </p>
-        <p className="description">
-          <a href="/health">Browse Health Products (药妆)</a>
-        </p>
-        <p className="description">
-          <a href="/fashion">Browse Fashion Products (时尚，日用，小吃)</a>
+          <a href="/buy">去APP下单</a>
         </p>
       </main>
-
       <Footer />
     </div>
   )
